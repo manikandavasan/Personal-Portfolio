@@ -40,7 +40,6 @@ portfolio/
 │── index.html
 │── style.css
 │── images/
-│── assets/
 └── README.md
 ```
 
@@ -49,13 +48,13 @@ portfolio/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/manikandavasan/Personal-Portfolio.git
 ```
 
 2. Navigate to the project folder
 
 ```bash
-cd your-repository-name
+cd Personal-Portfolio
 ```
 
 3. Open `index.html` in your browser.
@@ -87,9 +86,9 @@ If you'd like to improve this project:
 
 **Manikandavasan S**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
+- GitHub: https://github.com/manikandavasan/
+- LinkedIn: https://www.linkedin.com/in/manikandavasan-s/
+- Email: m45589207@gmail.com
 
 ## ⭐ Support
 
